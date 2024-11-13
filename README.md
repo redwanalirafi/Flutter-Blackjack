@@ -1,16 +1,60 @@
-# blackjack
 
-A new Flutter project.
+# BlackJack - Classic casino game.
 
-## Getting Started
+A simple and interactive Blackjack game developed with Flutter. Test your luck and skill in this classic casino game! The game features realistic gameplay mechanics and a sleek user interface, providing an engaging experience for users on mobile devices.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Technologies Used
+- Features
+- Getting Started
+- Screenshots
+- How to Play
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter:** For creating cross-platform mobile applications
+- **Dart:** Programming language used with Flutter
+
+
+## Features
+
+- Classic Blackjack rules and gameplay
+- Interactive and user-friendly UI
+- Responsive design optimized for mobile devices
+- Real-time score updates
+
+
+
+## Installation
+
+**1. Clone the repository:**
+
+```bash
+  git clone https://github.com/your-username/blackjack.git
+```
+    
+**2. Navigate into the project directory:**
+
+```bash
+  cd blackjack
+```
+    
+**3. Install dependencies:**
+
+```bash
+  flutter pub get
+```
+    
+**4. Run the app:**
+
+```bash
+  flutter run
+```
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
