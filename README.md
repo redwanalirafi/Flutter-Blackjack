@@ -56,5 +56,5 @@ A simple and interactive Blackjack game developed with Flutter. Test your luck a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/redwanalirafi/Project-Assets/refs/heads/main/Flutter-blackjack/Screenshot_385.png)
 
